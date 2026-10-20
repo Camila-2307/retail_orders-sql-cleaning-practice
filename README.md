@@ -8,7 +8,7 @@ A small project for learning how to inspect and clean messy data with SQL. The d
 * order_dataset_clean.csv - a cleaned version to compare against
 * SQL_retail_dataset_practice.sql - SQL queries for the practice
 
-##How to use
+## How to use
 1. Download retail_order_dirty.csv
 2. Import it into SQLite as a table named orders_raw
 3. Follow the exercises in retail_orders_practice.md, or run clean_orders.sql
