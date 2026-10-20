@@ -1,0 +1,33 @@
+order_id,order_date,customer_name,email,city,state,product,quantity,unit_price,discount_pct,payment_method,order_status
+1001,2025-01-03,Ava Patel,ava.patel@example.com,NEW YORK,NY,Desk Lamp,2,34.99,0.0,Credit Card,SHIPPED
+1002,2025-01-04,Noah Kim,noah.kim@example.com,LOS ANGELES,CA,Notebook Set,3,12.5,10.0,PayPal,DELIVERED
+1003,2025-01-05,Mia Garcia,mia.garcia@example.com,CHICAGO,IL,Water Bottle,1,22.0,0.0,Credit Card,DELIVERED
+1004,2025-01-06,Liam Chen,liam.chen@example.com,AUSTIN,TX,Desk Lamp,1,34.99,5.0,Debit Card,PROCESSING
+1005,2025-01-06,Sophia Jones,sophia.jones@example.com,SEATTLE,WA,Yoga Mat,2,28.0,15.0,PayPal,SHIPPED
+1006,2025-01-07,Ethan Brown,ethan.brown@example.com,DENVER,CO,Notebook Set,5,12.5,0.0,Credit Card,CANCELLED
+1007,2025-01-08,Isabella Davis,isabella.davis@example.com,MIAMI,FL,Water Bottle,2,22.0,0.0,Apple Pay,DELIVERED
+1009,2025-01-09,Amelia Martinez,amelia.martinez@example.com,PORTLAND,OR,Yoga Mat,1,28.0,0.0,Credit Card,PROCESSING
+1010,2025-01-10,James Anderson,james.anderson@example.com,PHOENIX,AZ,Notebook Set,2,12.5,0.0,Debit Card,DELIVERED
+1011,2025-01-10,Olivia Thomas,olivia.thomas@example.com,NEW YORK,NY,Water Bottle,1,22.0,5.0,Apple Pay,SHIPPED
+1012,2025-01-11,Benjamin Taylor,ben.taylor@example.com,SAN DIEGO,CA,Yoga Mat,3,28.0,10.0,PayPal,DELIVERED
+1013,2025-01-12,Charlotte Moore,charlotte.moore@example.com,NASHVILLE,TN,Desk Lamp,2,34.99,0.0,Credit Card,PROCESSING
+1014,2025-01-13,Elijah Jackson,elijah.jackson@example.com,COLUMBUS,OH,Notebook Set,1,12.5,0.0,Credit Card,SHIPPED
+1015,2025-01-14,Harper Martin,harper.martin@example.com,CHARLOTTE,NC,Water Bottle,4,22.0,10.0,PayPal,DELIVERED
+1016,2025-01-15,William Lee,will.lee@example.com,SAN FRANCISCO,CA,Yoga Mat,2,28.0,0.0,Debit Card,RETURNED
+1017,2025-01-16,Evelyn Perez,evelyn.perez@example.com,DETROIT,MI,Desk Lamp,1,34.99,0.0,Credit Card,SHIPPED
+1018,2025-01-17,Alexander Thompson,alex.thompson@example.com,LAS VEGAS,NV,Notebook Set,3,12.5,5.0,PayPal,DELIVERED
+1019,2025-01-18,Abigail White,abigail.white@example.com,ORLANDO,FL,Water Bottle,2,22.0,0.0,Apple Pay,PROCESSING
+1020,2025-01-19,Michael Harris,michael.harris@example.com,MINNEAPOLIS,MN,Yoga Mat,1,28.0,0.0,Credit Card,SHIPPED
+1021,2025-01-06,Liam Chen,liam.chen@example.com,AUSTIN,TX,Desk Lamp,1,34.99,5.0,Debit Card,PROCESSING
+1022,2025-01-22,Olivia Thomas,olivia.thomas@example.com,NEW YORK,NY,Water Bottle,1,22.0,5.0,Apple Pay,SHIPPED
+1023,2025-01-17,ALEXANDER THOMPSON,alex.thompson@example.com,LAS VEGAS,NV,Notebook Set,3,12.5,5.0,PayPal,DELIVERED
+1025,2025-01-11,Benjamin Taylor,ben.taylor@example.com,NEW YORK,CA,Yoga Mat,3,28.0,10.0,PayPal,DELIVERED
+1026,2025-01-18,Abigail White,abigail.white@example.com,ORLANDO,CA,Water Bottle,2,22.0,0.0,Apple Pay,PROCESSING
+1027,2025-01-07,Ethan Brown,ethan.brown@example.com,DENVER,CO,Desk Lamp,5,12.5,0.0,Credit Card,CANCELLED
+1031,2025-01-13,ELIJAH JACKSON,elijah.jackson@example.com,COLUMBUS,OH,Notebook Set,1,12.5,0.0,Credit Card,SHIPPED
+1035,2025-01-04,Noah Kim,noah.kim@example.com,LOS ANGELES,CA,Unknown Item,3,12.5,10.0,PayPal,DELIVERED
+1036,2025-01-22,Amelia Martinez,amelia.martinez@example.com,PORTLAND,OR,Yoga Mat,1,28.0,0.0,Credit Card,PROCESSING
+1037,2025-01-15,William Lee,will.lee@example.com,SAN FRANCISCO,CA,Yoga Mat,2,34.99,0.0,Debit Card,RETURNED
+1039,2025-01-10,James Anderson,james.anderson@example.com,PHOENIX,AZ,Notebook Set,2,12.5,0.0,Venmo,DELIVERED
+1040,2025-01-16,Evelyn Perez,evelyn.perez@example.com,DETROIT,MI,Desk Lamp,1,34.99,0.0,Credit Card,IN TRANSIT
+1044,2025-01-27,Zoe Adams,zoe.adams@example.com,PHILADELPHIA,PA,Notebook Set,2,12.5,0.0,Credit Card,DELIVERED
